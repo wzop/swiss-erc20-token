@@ -11,7 +11,7 @@ git clone https://github.com/wzop/swiss-erc20-token.git
 ```
 
 ```
-cd 
+cd swiss-erc20-token
 ```
 
 ### 2. Install Dependency
