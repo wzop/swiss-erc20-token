@@ -2,13 +2,6 @@
 
 link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
 
-Feel free donate to my EVM address
-
-EVM :
-
-```bash
-0x471232caf1c2cFE884c9Dd363Eb4a9bd9F4bf5D9
-```
 
 ## Steps
 
